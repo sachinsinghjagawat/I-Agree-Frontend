@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots of Website
+
+<img src="https://github.com/sachinsinghjagawat/I-Agree-Frontend/blob/main/Screenshot%20(361).png" alt="accessibility text">
+<img src="https://github.com/sachinsinghjagawat/I-Agree-Frontend/blob/main/Screenshot%20(362).png" alt="accessibility text">
+<img src="https://github.com/sachinsinghjagawat/I-Agree-Frontend/blob/main/Screenshot%20(364).png" alt="accessibility text">
+<img src="https://github.com/sachinsinghjagawat/I-Agree-Frontend/blob/main/Screenshot%20(365).png" alt="accessibility text">
+<img src="https://github.com/sachinsinghjagawat/I-Agree-Frontend/blob/main/Screenshot%20(366).png" alt="accessibility text">
+<img src="https://github.com/sachinsinghjagawat/I-Agree-Frontend/blob/main/Screenshot%20(367).png" alt="accessibility text">
+<img src="https://github.com/sachinsinghjagawat/I-Agree-Frontend/blob/main/Screenshot%20(368).png" alt="accessibility text">
+
+
 ## Available Scripts
 
 In the project directory, you can run:
